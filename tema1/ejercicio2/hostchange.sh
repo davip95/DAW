@@ -10,7 +10,7 @@ read IP_nueva
 
 #Para comprobar que no existe el nuevo dominio:
 
-if grep -q -w "$host_nuevo" "$hosts_archivo"
+if [[grep -q -w "$host_nuevo" "$hosts_archivo"]]
 
 then 
         echo "El dominio introducido ya existe"
