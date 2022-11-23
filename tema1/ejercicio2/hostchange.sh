@@ -1,6 +1,6 @@
 #!/bin/bash
 
-hosts_archivo="./etc/hosts"
+hosts_archivo="/etc/hosts"
 
 echo "Introduce el nuevo host: "
 read host_nuevo
