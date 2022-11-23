@@ -14,4 +14,4 @@ read arch
 
 archivo="$arch.html"
 
-echo "<html><title>$titulo</title><header>$cabecera</header><section>$mensaje</section></html>">/var/www/html/"$archivo"
+echo "<html><title>$titulo</title><header>$cabecera</header><section>$mensaje</section></html>" > /var/www/html/"$archivo"
