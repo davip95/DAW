@@ -11,6 +11,8 @@ then
         echo "Listen $1" >> /etc/apache2/ports.conf.save
 
         echo "Listen añadido al fichero"
+else 
+        echo "Ya existe ese listen para ese puerto"
 
 fi
 
