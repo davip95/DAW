@@ -15,4 +15,4 @@ Este repositorio incluye las actividades del modulo DAW del CFGS de Desarrollo d
 
 ## Práctica Servidores Web - 1er Trimestre
 
-| [Repositorio Práctica Servidores Web](davip95/Practica-Servidores-Web)
+- [Repositorio Práctica Servidores Web](davip95/Practica-Servidores-Web)
