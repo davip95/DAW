@@ -12,3 +12,7 @@ Este repositorio incluye las actividades del modulo DAW del CFGS de Desarrollo d
 | Nombre | Descripción |
 | ------ | ----------- |
 | [Ejercicio 2](/tema1/ejercicio2) | Trabajando con scripts |
+
+## Práctica Servidores Web - 1er Trimestre
+
+| [Repositorio Práctica Servidores Web](davip95/Practica-Servidores-Web)
