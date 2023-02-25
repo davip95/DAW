@@ -16,3 +16,7 @@ Este repositorio incluye las actividades del modulo DAW del CFGS de Desarrollo d
 ## Práctica Servidores Web - 1er Trimestre
 
 - [Repositorio Práctica Servidores Web](https://github.com/davip95/Practica-Servidores-Web.git)
+
+## Práctica Servidor Alojamiento Web - 2do Trimestre
+
+- [Repositorio Práctica Servidor Alojamiento Web](https://github.com/davip95/Practica-Servidor-Alojamiento-Web-2-Trim-.git)
